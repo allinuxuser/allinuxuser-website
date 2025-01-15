@@ -1,4 +1,8 @@
-h1 {
-  text-align: center;
+.greeting-text {
   color: #57565d;
+}
+
+.centered-text,
+.greeting-text {
+  text-align: center;
 }
