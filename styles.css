@@ -6,3 +6,7 @@
 .greeting-text {
   text-align: center;
 }
+
+body {
+  background-color: #003300;
+}
