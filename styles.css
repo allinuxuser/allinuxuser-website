@@ -1,5 +1,5 @@
 body {
-  background-color: #003300;
+  background-color: #282828;
 }
 
 .greeting-text {
@@ -12,6 +12,9 @@ body {
   text-align: center;
 }
 
-
+.bottom-text,
+.centered-text {
+  color: #4c53c2;
+}
 
 
